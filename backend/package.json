@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "main": "AutomationServer.js",
    "scripts": {
-    "start": "node AutomationServer.js",
-    "install-browsers": "npx puppeteer install"
+    "start": "node AutomationServer.js"
   },
   "keywords": [],
   "author": "",
